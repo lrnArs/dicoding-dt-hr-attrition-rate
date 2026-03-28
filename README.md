@@ -38,9 +38,9 @@ PT Jaya Jaya Maju, perusahaan multinasional yang berdiri sejak tahun 2000, memil
   5. Daily Rate
 
 ## Business Dashboard (Looker Studio)
-A dashboard was created in Looker Studio to monitor attrition trends and key factors. It includes:
-- Attrition rate over time (if date available) or overall summary.
-- Breakdown by department, job role, overtime, and monthly income.
+A dashboard was created in Streamlit to monitor attrition trends and key factors. It includes:
+- Attrition rate over overall summary.
+- Breakdown by monthly income and satisfactory score.
 - Filters for managers to drill down into specific segments.
 
 **Dashboard Access**: [Dashboard Streamlit](https://dicoding-dt-hr-attrition-rate-evpt5vdvqkkd6qzxpnie5g.streamlit.app/)
