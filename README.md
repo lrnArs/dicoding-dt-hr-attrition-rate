@@ -43,8 +43,7 @@ A dashboard was created in Looker Studio to monitor attrition trends and key fac
 - Breakdown by department, job role, overtime, and monthly income.
 - Filters for managers to drill down into specific segments.
 
-**Dashboard Access**: [dicoding-dt-hr-attrition-rate-evpt5vdvqkkd6qzxpnie5g
-.streamlit.app]  
+**Dashboard Access**: [dicoding-dt-hr-attrition-rate-evpt5vdvqkkd6qzxpnie5g.streamlit.app]  
 
 ## Action Items (Recommendations)
 1. **Monthly Income**: Lakukan benchmarking gaji; sesuaikan untuk posisi yang dibayar di bawah standar; buat jalur karier yang transparan.
