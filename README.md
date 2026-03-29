@@ -39,11 +39,12 @@ PT Jaya Jaya Maju, perusahaan multinasional yang berdiri sejak tahun 2000, memil
 
 ## Business Dashboard (Streamlit)
 A dashboard was created in Streamlit to monitor attrition trends and key factors. It includes:
+
 - Attrition rate over overall summary.
 - Breakdown by monthly income and satisfactory score.
 - Filters for managers to drill down into specific segments.
 
-**Dashboard Access**: [Dashboard Streamlit](https://dicoding-dt-hr-attrition-rate-evpt5vdvqkkd6qzxpnie5g.streamlit.app/)
+**Dashboard Access**: [Dashboard Streamlit](https://dicoding-dt-hr-attrition-rate-evpt5vdvqkkd6qzxpnie5g.streamlit.app/) 
 
 ## Action Items (Recommendations)
 1. **Monthly Income**: Lakukan benchmarking gaji; sesuaikan untuk posisi yang dibayar di bawah standar; buat jalur karier yang transparan.
