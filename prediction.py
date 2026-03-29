@@ -6,12 +6,12 @@ import argparse
 import warnings
 warnings.filterwarnings('ignore')
 
-def load_artifacts(model_path='model_employee.pkl',
-                   scaler_path='scaler_employee.pkl',
-                   le_target_path='label_encoder_target.pkl',
-                   le_cat_path='label_encoder_employee.pkl',
-                   num_cols_path='numerical_cols_employee.pkl',
-                   cat_cols_path='categorical_cols_employee.pkl'):
+def load_artifacts(model_path='model/model_employee.pkl',
+                   scaler_path='model/scaler_employee.pkl',
+                   le_target_path='model/label_encoder_target.pkl',
+                   le_cat_path='model/label_encoder_employee.pkl',
+                   num_cols_path='model/numerical_cols_employee.pkl',
+                   cat_cols_path='model/categorical_cols_employee.pkl'):
     """Load all pre-trained objects."""
     model = joblib.load(model_path)
     scaler = joblib.load(scaler_path)
