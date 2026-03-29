@@ -37,7 +37,7 @@ PT Jaya Jaya Maju, perusahaan multinasional yang berdiri sejak tahun 2000, memil
   4. Monthly Rate
   5. Daily Rate
 
-## Business Dashboard (Looker Studio)
+## Business Dashboard (Streamlit)
 A dashboard was created in Streamlit to monitor attrition trends and key factors. It includes:
 - Attrition rate over overall summary.
 - Breakdown by monthly income and satisfactory score.
